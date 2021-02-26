@@ -1,0 +1,3644 @@
+fileFormatVersion: 2
+guid: 02e8d21bfb789a843a426040e37aebf0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Burc
+    100002: Burc53
+    100004: Burc54
+    100006: Burc55
+    100008: Cati1
+    100010: //RootNode
+    100012: curve1
+    100014: curve1 1
+    100016: curve10
+    100018: curve11
+    100020: curve2
+    100022: curve3
+    100024: curve4
+    100026: curve8
+    100028: curve9
+    100030: Kapi
+    100032: KapiAlt
+    100034: KapiKolu
+    100036: KapiKolu 1
+    100038: KapiKolu 10
+    100040: KapiKolu 11
+    100042: KapiKolu 12
+    100044: KapiKolu 13
+    100046: KapiKolu 14
+    100048: KapiKolu 15
+    100050: KapiKolu 16
+    100052: KapiKolu 17
+    100054: KapiKolu 18
+    100056: KapiKolu 19
+    100058: KapiKolu 2
+    100060: KapiKolu 20
+    100062: KapiKolu 21
+    100064: KapiKolu 22
+    100066: KapiKolu 23
+    100068: KapiKolu 24
+    100070: KapiKolu 25
+    100072: KapiKolu 26
+    100074: KapiKolu 27
+    100076: KapiKolu 28
+    100078: KapiKolu 29
+    100080: KapiKolu 3
+    100082: KapiKolu 30
+    100084: KapiKolu 31
+    100086: KapiKolu 4
+    100088: KapiKolu 5
+    100090: KapiKolu 6
+    100092: KapiKolu 7
+    100094: KapiKolu 8
+    100096: KapiKolu 9
+    100098: KapiKolu1
+    100100: KapiKoluTabla
+    100102: KapiKoluTabla 1
+    100104: KapiKoluTabla 10
+    100106: KapiKoluTabla 11
+    100108: KapiKoluTabla 12
+    100110: KapiKoluTabla 13
+    100112: KapiKoluTabla 14
+    100114: KapiKoluTabla 15
+    100116: KapiKoluTabla 16
+    100118: KapiKoluTabla 17
+    100120: KapiKoluTabla 18
+    100122: KapiKoluTabla 19
+    100124: KapiKoluTabla 2
+    100126: KapiKoluTabla 20
+    100128: KapiKoluTabla 21
+    100130: KapiKoluTabla 22
+    100132: KapiKoluTabla 23
+    100134: KapiKoluTabla 24
+    100136: KapiKoluTabla 25
+    100138: KapiKoluTabla 26
+    100140: KapiKoluTabla 27
+    100142: KapiKoluTabla 28
+    100144: KapiKoluTabla 29
+    100146: KapiKoluTabla 3
+    100148: KapiKoluTabla 30
+    100150: KapiKoluTabla 31
+    100152: KapiKoluTabla 4
+    100154: KapiKoluTabla 5
+    100156: KapiKoluTabla 6
+    100158: KapiKoluTabla 7
+    100160: KapiKoluTabla 8
+    100162: KapiKoluTabla 9
+    100164: KapiKoluTabla1
+    100166: KapiKoluTurbe
+    100168: KapiKucuk
+    100170: KapiSagCita
+    100172: KapiTurbe
+    100174: KemerOrta
+    100176: KemerUst
+    100178: KucukKapilar10
+    100180: KucukKapilar11
+    100182: KucukKapilar12
+    100184: KucukKapilar19
+    100186: KucukKapilar20
+    100188: KucukKapilar21
+    100190: KucukKapilar22
+    100192: KucukKapilar23
+    100194: KucukKapilar24
+    100196: KucukKapilar25
+    100198: KucukKapilar26
+    100200: KucukKapilar27
+    100202: KucukKapilar28
+    100204: KucukKapilar29
+    100206: KucukKapilar3
+    100208: KucukKapilar30
+    100210: KucukKapilar31
+    100212: KucukKapilar32
+    100214: KucukKapilar33
+    100216: KucukKapilar34
+    100218: KucukKapilar35
+    100220: KucukKapilar36
+    100222: KucukKapilar4
+    100224: KucukKapilar40
+    100226: KucukKapilar41
+    100228: KucukKapilar42
+    100230: KucukKapilar43
+    100232: KucukKapilar5
+    100234: KucukKapilar6
+    100236: KucukKapilar7
+    100238: KucukKapilar8
+    100240: KucukKapilar9
+    100242: MinareOnSag
+    100244: MinareOnSol
+    100246: MinareSag
+    100248: MinareSol
+    100250: OnKapiKemer
+    100252: OnKapiTahta
+    100254: pCone1
+    100256: pCone1 1
+    100258: pCube110
+    100260: pCube111
+    100262: pCube112
+    100264: pCube123
+    100266: pCube124
+    100268: pCube125
+    100270: pCube126
+    100272: pCube127
+    100274: pCube128
+    100276: pCube129
+    100278: pCube130
+    100280: pCube131
+    100282: pCube132
+    100284: pCube135
+    100286: pCube136
+    100288: pCube137
+    100290: pCube138
+    100292: pCube140
+    100294: pCube141
+    100296: pCube142
+    100298: pCube143
+    100300: pCube144
+    100302: pCube145
+    100304: pCube147
+    100306: pCube148
+    100308: pCube149
+    100310: pCube150
+    100312: pCube151
+    100314: pCube152
+    100316: pCube153
+    100318: pCube154
+    100320: pCube155
+    100322: pCube156
+    100324: pCube157
+    100326: pCube159
+    100328: pCube160
+    100330: pCube161
+    100332: pCube162
+    100334: pCube163
+    100336: pCube164
+    100338: pCube165
+    100340: pCube166
+    100342: pCube167
+    100344: pCube168
+    100346: pCube169
+    100348: pCube170
+    100350: pCube171
+    100352: pCube172
+    100354: pCube173
+    100356: pCube174
+    100358: pCube31
+    100360: pCube31 1
+    100362: pCube34
+    100364: pCube34 1
+    100366: pCube45
+    100368: pCube46
+    100370: pCube55
+    100372: pCube72
+    100374: pCube76
+    100376: pCube79
+    100378: pCube8
+    100380: pCube81
+    100382: pCube82
+    100384: pCube89
+    100386: pCylinder18
+    100388: pCylinder20
+    100390: pCylinder21
+    100392: pCylinder22
+    100394: pCylinder23
+    100396: pCylinder24
+    100398: pCylinder25
+    100400: pCylinder26
+    100402: pCylinder27
+    100404: pCylinder28
+    100406: pCylinder31
+    100408: pCylinder32
+    100410: pCylinder33
+    100412: pCylinder34
+    100414: pCylinder35
+    100416: pCylinder36
+    100418: pCylinder44
+    100420: pCylinder46
+    100422: pCylinder48
+    100424: pCylinder5
+    100426: pCylinder5 1
+    100428: pCylinder63
+    100430: pCylinder64
+    100432: pCylinder65
+    100434: pCylinder66
+    100436: pCylinder67
+    100438: pCylinder68
+    100440: pCylinder69
+    100442: pCylinder70
+    100444: pCylinder71
+    100446: pCylinder72
+    100448: pCylinder73
+    100450: pCylinder74
+    100452: pCylinder75
+    100454: pCylinder76
+    100456: pCylinder77
+    100458: pCylinder78
+    100460: pCylinder79
+    100462: pCylinder80
+    100464: pCylinder82
+    100466: pCylinder83
+    100468: polySurface100
+    100470: polySurface101
+    100472: polySurface102
+    100474: polySurface103
+    100476: polySurface104
+    100478: polySurface106
+    100480: polySurface107
+    100482: polySurface108
+    100484: polySurface111
+    100486: polySurface112
+    100488: polySurface113
+    100490: polySurface114
+    100492: polySurface115
+    100494: polySurface116
+    100496: polySurface117
+    100498: polySurface118
+    100500: polySurface119
+    100502: polySurface13
+    100504: polySurface130
+    100506: polySurface133
+    100508: polySurface134
+    100510: polySurface135
+    100512: polySurface237
+    100514: polySurface238
+    100516: polySurface24
+    100518: polySurface242
+    100520: polySurface242 1
+    100522: polySurface243
+    100524: polySurface244
+    100526: polySurface245
+    100528: polySurface246
+    100530: polySurface247
+    100532: polySurface248
+    100534: polySurface248 1
+    100536: polySurface249
+    100538: polySurface250
+    100540: polySurface250 1
+    100542: polySurface251
+    100544: polySurface252
+    100546: polySurface253
+    100548: polySurface255
+    100550: polySurface256
+    100552: polySurface257
+    100554: polySurface257 1
+    100556: polySurface258
+    100558: polySurface259
+    100560: polySurface259 1
+    100562: polySurface260
+    100564: polySurface261
+    100566: polySurface262
+    100568: polySurface263
+    100570: polySurface263 1
+    100572: polySurface264
+    100574: polySurface265
+    100576: polySurface266
+    100578: polySurface266 1
+    100580: polySurface267
+    100582: polySurface267 1
+    100584: polySurface268
+    100586: polySurface268 1
+    100588: polySurface269
+    100590: polySurface269 1
+    100592: polySurface270
+    100594: polySurface271
+    100596: polySurface272
+    100598: polySurface273
+    100600: polySurface274
+    100602: polySurface274 1
+    100604: polySurface275
+    100606: polySurface276
+    100608: polySurface277
+    100610: polySurface278
+    100612: polySurface279
+    100614: polySurface279 1
+    100616: polySurface280
+    100618: polySurface281
+    100620: polySurface282
+    100622: polySurface283
+    100624: polySurface284
+    100626: polySurface285
+    100628: polySurface286
+    100630: polySurface287
+    100632: polySurface288
+    100634: polySurface288 1
+    100636: polySurface289
+    100638: polySurface290
+    100640: polySurface290 1
+    100642: polySurface291
+    100644: polySurface292
+    100646: polySurface292 1
+    100648: polySurface293
+    100650: polySurface293 1
+    100652: polySurface294
+    100654: polySurface295
+    100656: polySurface296
+    100658: polySurface296 1
+    100660: polySurface297
+    100662: polySurface298
+    100664: polySurface299
+    100666: polySurface299 1
+    100668: polySurface300
+    100670: polySurface301
+    100672: polySurface302
+    100674: polySurface303
+    100676: polySurface304
+    100678: polySurface305
+    100680: polySurface306
+    100682: polySurface307
+    100684: polySurface308
+    100686: polySurface309
+    100688: polySurface310
+    100690: polySurface311
+    100692: polySurface312
+    100694: polySurface313
+    100696: polySurface314
+    100698: polySurface315
+    100700: polySurface316
+    100702: polySurface317
+    100704: polySurface317 1
+    100706: polySurface318
+    100708: polySurface319
+    100710: polySurface320
+    100712: polySurface321
+    100714: polySurface322
+    100716: polySurface323
+    100718: polySurface324
+    100720: polySurface325
+    100722: polySurface325 1
+    100724: polySurface326
+    100726: polySurface327
+    100728: polySurface328
+    100730: polySurface329
+    100732: polySurface330
+    100734: polySurface330 1
+    100736: polySurface331
+    100738: polySurface332
+    100740: polySurface332 1
+    100742: polySurface333
+    100744: polySurface334
+    100746: polySurface334 1
+    100748: polySurface335
+    100750: polySurface336
+    100752: polySurface337
+    100754: polySurface338
+    100756: polySurface339
+    100758: polySurface34
+    100760: polySurface340
+    100762: polySurface341
+    100764: polySurface342
+    100766: polySurface343
+    100768: polySurface344
+    100770: polySurface344 1
+    100772: polySurface345
+    100774: polySurface347
+    100776: polySurface348
+    100778: polySurface349
+    100780: polySurface350
+    100782: polySurface351
+    100784: polySurface352
+    100786: polySurface353
+    100788: polySurface354
+    100790: polySurface355
+    100792: polySurface356
+    100794: polySurface357
+    100796: polySurface358
+    100798: polySurface359
+    100800: polySurface36
+    100802: polySurface360
+    100804: polySurface361
+    100806: polySurface362
+    100808: polySurface363
+    100810: polySurface364
+    100812: polySurface365
+    100814: polySurface366
+    100816: polySurface367
+    100818: polySurface368
+    100820: polySurface369
+    100822: polySurface370
+    100824: polySurface371
+    100826: polySurface372
+    100828: polySurface373
+    100830: polySurface374
+    100832: polySurface375
+    100834: polySurface376
+    100836: polySurface377
+    100838: polySurface378
+    100840: polySurface379
+    100842: polySurface380
+    100844: polySurface381
+    100846: polySurface382
+    100848: polySurface383
+    100850: polySurface384
+    100852: polySurface385
+    100854: polySurface386
+    100856: polySurface387
+    100858: polySurface388
+    100860: polySurface389
+    100862: polySurface390
+    100864: polySurface391
+    100866: polySurface392
+    100868: polySurface393
+    100870: polySurface394
+    100872: polySurface395
+    100874: polySurface396
+    100876: polySurface397
+    100878: polySurface398
+    100880: polySurface399
+    100882: polySurface400
+    100884: polySurface401
+    100886: polySurface402
+    100888: polySurface403
+    100890: polySurface404
+    100892: polySurface405
+    100894: polySurface406
+    100896: polySurface407
+    100898: polySurface408
+    100900: polySurface409
+    100902: polySurface410
+    100904: polySurface411
+    100906: polySurface412
+    100908: polySurface413
+    100910: polySurface414
+    100912: polySurface415
+    100914: polySurface416
+    100916: polySurface417
+    100918: polySurface418
+    100920: polySurface419
+    100922: polySurface420
+    100924: polySurface421
+    100926: polySurface422
+    100928: polySurface423
+    100930: polySurface423 1
+    100932: polySurface424
+    100934: polySurface425
+    100936: polySurface426
+    100938: polySurface427
+    100940: polySurface428
+    100942: polySurface429
+    100944: polySurface430
+    100946: polySurface431
+    100948: polySurface432
+    100950: polySurface433
+    100952: polySurface434
+    100954: polySurface435
+    100956: polySurface436
+    100958: polySurface437
+    100960: polySurface438
+    100962: polySurface439
+    100964: polySurface440
+    100966: polySurface441
+    100968: polySurface442
+    100970: polySurface443
+    100972: polySurface444
+    100974: polySurface445
+    100976: polySurface446
+    100978: polySurface447
+    100980: polySurface448
+    100982: polySurface449
+    100984: polySurface450
+    100986: polySurface451
+    100988: polySurface452
+    100990: polySurface453
+    100992: polySurface454
+    100994: polySurface455
+    100996: polySurface456
+    100998: polySurface457
+    101000: polySurface458
+    101002: polySurface458 1
+    101004: polySurface459
+    101006: polySurface460
+    101008: polySurface460 1
+    101010: polySurface461
+    101012: polySurface462
+    101014: polySurface463
+    101016: polySurface464
+    101018: polySurface465
+    101020: polySurface466
+    101022: polySurface467
+    101024: polySurface468
+    101026: polySurface469
+    101028: polySurface470
+    101030: polySurface471
+    101032: polySurface472
+    101034: polySurface473
+    101036: polySurface474
+    101038: polySurface475
+    101040: polySurface476
+    101042: polySurface477
+    101044: polySurface477 1
+    101046: polySurface478
+    101048: polySurface479
+    101050: polySurface480
+    101052: polySurface481
+    101054: polySurface482
+    101056: polySurface483
+    101058: polySurface484
+    101060: polySurface485
+    101062: polySurface486
+    101064: polySurface487
+    101066: polySurface488
+    101068: polySurface489
+    101070: polySurface49
+    101072: polySurface490
+    101074: polySurface491
+    101076: polySurface492
+    101078: polySurface493
+    101080: polySurface494
+    101082: polySurface495
+    101084: polySurface496
+    101086: polySurface497
+    101088: polySurface497 1
+    101090: polySurface498
+    101092: polySurface499
+    101094: polySurface500
+    101096: polySurface501
+    101098: polySurface502
+    101100: polySurface502 1
+    101102: polySurface503
+    101104: polySurface504
+    101106: polySurface505
+    101108: polySurface506
+    101110: polySurface507
+    101112: polySurface508
+    101114: polySurface509
+    101116: polySurface510
+    101118: polySurface511
+    101120: polySurface512
+    101122: polySurface513
+    101124: polySurface514
+    101126: polySurface515
+    101128: polySurface516
+    101130: polySurface517
+    101132: polySurface518
+    101134: polySurface519
+    101136: polySurface519 1
+    101138: polySurface52
+    101140: polySurface520
+    101142: polySurface521
+    101144: polySurface522
+    101146: polySurface523
+    101148: polySurface524
+    101150: polySurface525
+    101152: polySurface526
+    101154: polySurface527
+    101156: polySurface528
+    101158: polySurface529
+    101160: polySurface530
+    101162: polySurface531
+    101164: polySurface532
+    101166: polySurface533
+    101168: polySurface534
+    101170: polySurface535
+    101172: polySurface537
+    101174: polySurface538
+    101176: polySurface539
+    101178: polySurface540
+    101180: polySurface541
+    101182: polySurface542
+    101184: polySurface543
+    101186: polySurface544
+    101188: polySurface545
+    101190: polySurface546
+    101192: polySurface547
+    101194: polySurface547 1
+    101196: polySurface548
+    101198: polySurface55
+    101200: polySurface550
+    101202: polySurface552
+    101204: polySurface553
+    101206: polySurface554
+    101208: polySurface555
+    101210: polySurface556
+    101212: polySurface557
+    101214: polySurface557 1
+    101216: polySurface558
+    101218: polySurface559
+    101220: polySurface560
+    101222: polySurface561
+    101224: polySurface562
+    101226: polySurface563
+    101228: polySurface563 1
+    101230: polySurface564
+    101232: polySurface565
+    101234: polySurface566
+    101236: polySurface567
+    101238: polySurface568
+    101240: polySurface568 1
+    101242: polySurface569
+    101244: polySurface569 1
+    101246: polySurface57
+    101248: polySurface570
+    101250: polySurface571
+    101252: polySurface572
+    101254: polySurface577
+    101256: polySurface578
+    101258: polySurface579
+    101260: polySurface580
+    101262: polySurface581
+    101264: polySurface582
+    101266: polySurface583
+    101268: polySurface584
+    101270: polySurface585
+    101272: polySurface586
+    101274: polySurface587
+    101276: polySurface588
+    101278: polySurface589
+    101280: polySurface590
+    101282: polySurface591
+    101284: polySurface592
+    101286: polySurface594
+    101288: polySurface595
+    101290: polySurface596
+    101292: polySurface597
+    101294: polySurface597 1
+    101296: polySurface598
+    101298: polySurface60
+    101300: polySurface600
+    101302: polySurface601
+    101304: polySurface602
+    101306: polySurface603
+    101308: polySurface604
+    101310: polySurface605
+    101312: polySurface606
+    101314: polySurface607
+    101316: polySurface607 1
+    101318: polySurface608
+    101320: polySurface81
+    101322: polySurface82
+    101324: polySurface83
+    101326: polySurface84
+    101328: polySurface85
+    101330: polySurface86
+    101332: polySurface87
+    101334: polySurface88
+    101336: polySurface91
+    101338: polySurface92
+    101340: polySurface93
+    101342: polySurface94
+    101344: polySurface95
+    101346: polySurface96
+    101348: polySurface97
+    101350: polySurface99
+    101352: pSphere1
+    101354: pSphere2
+    101356: SagKanat
+    101358: SagKanat3
+    101360: SagKanat4
+    101362: SagKanat5
+    101364: SagKanatOn
+    101366: SagKanatOn1
+    101368: SolKanat
+    101370: SolKanat1
+    101372: SolKanat2
+    101374: SolKanatOn
+    101376: Supurgelik5
+    101378: Sutun8
+    101380: SutunYuvarlak
+    101382: TablaAlt1
+    101384: transform169
+    101386: transform170
+    101388: transform175
+    101390: transform176
+    101392: transform177
+    101394: transform178
+    101396: transform179
+    101398: transform180
+    101400: transform181
+    101402: transform182
+    101404: transform183
+    101406: transform184
+    101408: transform185
+    101410: transform186
+    101412: transform187
+    101414: transform188
+    101416: transform189
+    101418: transform190
+    101420: transform191
+    101422: transform192
+    101424: transform193
+    101426: transform194
+    101428: transform195
+    101430: transform196
+    101432: transform197
+    101434: transform198
+    101436: transform199
+    101438: transform200
+    101440: transform201
+    101442: transform202
+    101444: transform203
+    101446: transform204
+    101448: transform205
+    101450: transform206
+    101452: transform207
+    101454: transform208
+    101456: transform209
+    101458: transform210
+    101460: transform211
+    101462: transform212
+    101464: transform213
+    101466: transform214
+    101468: transform215
+    101470: transform216
+    101472: transform217
+    101474: transform218
+    101476: transform219
+    101478: transform220
+    101480: transform221
+    101482: transform222
+    101484: transform223
+    101486: transform224
+    101488: transform225
+    101490: transform226
+    101492: transform227
+    101494: transform228
+    101496: transform229
+    101498: transform230
+    101500: transform231
+    101502: transform232
+    101504: transform233
+    101506: transform234
+    101508: transform235
+    101510: transform236
+    101512: transform237
+    101514: transform238
+    101516: transform239
+    101518: transform240
+    101520: transform241
+    101522: transform242
+    101524: transform243
+    101526: transform244
+    101528: transform245
+    101530: transform246
+    101532: transform247
+    101534: transform248
+    101536: transform249
+    101538: transform250
+    101540: transform251
+    101542: transform252
+    101544: transform253
+    101546: transform254
+    101548: transform255
+    101550: transform256
+    101552: transform257
+    101554: transform258
+    101556: transform259
+    101558: transform260
+    101560: transform261
+    101562: transform262
+    101564: transform263
+    101566: transform264
+    101568: transform265
+    101570: transform266
+    101572: transform267
+    101574: transform268
+    101576: transform269
+    101578: transform270
+    101580: transform271
+    101582: transform272
+    101584: transform273
+    101586: transform274
+    101588: transform275
+    101590: transform276
+    101592: transform277
+    101594: transform278
+    101596: transform279
+    101598: transform280
+    101600: transform281
+    101602: transform282
+    101604: transform283
+    101606: transform284
+    101608: transform285
+    101610: transform286
+    101612: transform287
+    101614: transform288
+    101616: transform289
+    101618: transform290
+    101620: transform291
+    101622: transform292
+    101624: transform293
+    101626: transform294
+    101628: transform295
+    101630: transform296
+    101632: transform297
+    101634: transform298
+    101636: transform299
+    101638: transform300
+    101640: transform301
+    101642: transform302
+    101644: transform303
+    101646: transform304
+    101648: transform305
+    101650: transform306
+    101652: transform307
+    101654: transform308
+    101656: transform309
+    101658: transform310
+    101660: transform311
+    101662: transform312
+    101664: transform313
+    101666: transform314
+    101668: transform315
+    101670: transform316
+    101672: transform317
+    101674: transform318
+    101676: transform319
+    101678: transform320
+    101680: transform321
+    101682: transform322
+    101684: transform323
+    101686: transform324
+    101688: transform325
+    101690: transform326
+    101692: transform327
+    101694: transform328
+    101696: transform329
+    101698: transform330
+    101700: transform331
+    101702: transform332
+    101704: transform333
+    101706: transform334
+    101708: transform335
+    101710: transform336
+    101712: transform337
+    101714: transform338
+    101716: transform339
+    101718: transform340
+    101720: transform341
+    101722: transform342
+    101724: transform343
+    101726: transform344
+    101728: transform345
+    101730: transform346
+    101732: transform347
+    101734: transform348
+    101736: transform349
+    101738: transform350
+    101740: transform351
+    101742: transform352
+    101744: transform353
+    101746: transform354
+    101748: transform355
+    101750: transform356
+    101752: transform357
+    101754: transform358
+    101756: transform359
+    101758: transform360
+    101760: transform361
+    101762: transform362
+    101764: transform363
+    101766: transform364
+    101768: transform365
+    101770: transform366
+    101772: transform367
+    101774: transform368
+    101776: transform369
+    101778: transform370
+    101780: transform371
+    101782: transform372
+    101784: transform373
+    101786: transform374
+    101788: transform375
+    101790: transform376
+    101792: transform377
+    101794: transform378
+    101796: transform379
+    101798: transform380
+    101800: transform381
+    101802: transform382
+    101804: transform383
+    101806: transform384
+    101808: transform385
+    101810: transform386
+    101812: transform387
+    101814: transform388
+    101816: transform389
+    101818: transform390
+    101820: transform391
+    101822: transform392
+    101824: transform393
+    101826: transform394
+    101828: transform395
+    101830: transform396
+    101832: transform397
+    101834: transform398
+    101836: transform399
+    101838: transform400
+    101840: transform401
+    101842: transform402
+    101844: transform403
+    101846: transform404
+    101848: transform405
+    101850: transform406
+    101852: transform407
+    101854: transform408
+    101856: transform409
+    101858: transform410
+    101860: transform411
+    101862: transform412
+    101864: transform413
+    101866: transform414
+    101868: transform415
+    101870: transform416
+    101872: transform417
+    101874: transform418
+    101876: transform419
+    101878: transform420
+    101880: transform421
+    101882: transform422
+    101884: transform423
+    101886: transform424
+    101888: transform425
+    101890: transform426
+    101892: transform427
+    101894: transform428
+    101896: transform429
+    101898: transform430
+    101900: transform431
+    101902: transform432
+    101904: transform433
+    101906: transform434
+    101908: transform435
+    101910: transform436
+    101912: transform437
+    101914: transform438
+    101916: transform439
+    101918: transform440
+    101920: transform441
+    101922: transform442
+    101924: transform443
+    101926: transform444
+    101928: transform445
+    101930: transform446
+    101932: transform447
+    101934: transform448
+    101936: transform449
+    101938: transform450
+    101940: transform451
+    101942: transform452
+    101944: transform453
+    101946: transform454
+    101948: transform455
+    101950: transform456
+    101952: transform457
+    101954: transform458
+    101956: transform459
+    101958: transform460
+    101960: transform461
+    101962: transform462
+    101964: transform463
+    101966: transform464
+    101968: transform465
+    101970: transform466
+    101972: transform467
+    101974: transform468
+    101976: transform469
+    101978: transform470
+    101980: transform471
+    101982: transform472
+    101984: transform473
+    101986: transform474
+    101988: transform475
+    101990: transform476
+    101992: transform477
+    101994: transform478
+    101996: transform479
+    101998: transform480
+    102000: transform481
+    102002: transform482
+    102004: transform483
+    102006: transform484
+    102008: transform485
+    102010: transform486
+    102012: transform487
+    102014: transform488
+    102016: transform489
+    102018: transform490
+    102020: transform491
+    102022: transform492
+    102024: transform493
+    102026: transform494
+    102028: transform495
+    102030: transform496
+    102032: transform497
+    102034: transform498
+    102036: transform499
+    102038: transform500
+    102040: transform501
+    102042: transform502
+    102044: transform503
+    102046: transform504
+    102048: transform505
+    102050: transform506
+    102052: transform507
+    102054: transform508
+    102056: transform509
+    102058: transform510
+    102060: transform511
+    102062: transform512
+    102064: transform513
+    102066: transform514
+    102068: transform515
+    102070: transform516
+    102072: transform517
+    102074: transform518
+    102076: transform519
+    102078: transform520
+    102080: transform521
+    102082: transform522
+    102084: transform523
+    102086: transform524
+    102088: transform525
+    102090: transform526
+    102092: transform527
+    102094: transform528
+    102096: transform529
+    102098: transform530
+    102100: transform531
+    102102: transform532
+    102104: transform533
+    102106: transform534
+    102108: transform535
+    102110: transform536
+    102112: transform537
+    102114: transform538
+    102116: transform539
+    102118: transform540
+    102120: transform541
+    102122: transform542
+    102124: transform543
+    102126: transform544
+    102128: transform545
+    102130: transform546
+    102132: transform547
+    102134: transform548
+    102136: transform549
+    102138: transform550
+    102140: transform551
+    102142: transform552
+    102144: transform553
+    102146: transform554
+    102148: transform555
+    102150: transform556
+    102152: transform557
+    102154: transform558
+    102156: transform559
+    102158: transform560
+    102160: transform561
+    102162: transform562
+    102164: transform563
+    102166: transform564
+    102168: transform565
+    102170: transform566
+    102172: transform567
+    102174: transform568
+    102176: transform580
+    102178: transform581
+    102180: transform582
+    102182: transform583
+    102184: transform584
+    102186: transform585
+    102188: transform586
+    102190: transform587
+    102192: transform588
+    102194: transform589
+    102196: transform590
+    102198: transform591
+    102200: transform592
+    102202: transform593
+    102204: transform594
+    102206: transform595
+    102208: transform596
+    102210: transform597
+    102212: transform598
+    102214: transform599
+    102216: transform600
+    102218: transform601
+    102220: transform602
+    102222: transform603
+    102224: transform604
+    102226: transform605
+    102228: transform606
+    102230: transform607
+    102232: transform608
+    102234: transform609
+    102236: transform610
+    102238: transform611
+    102240: transform612
+    102242: transform613
+    102244: transform614
+    102246: transform615
+    102248: transform616
+    102250: transform617
+    102252: transform618
+    102254: transform619
+    102256: transform620
+    102258: transform621
+    102260: transform622
+    102262: transform623
+    102264: transform624
+    102266: transform625
+    102268: TurbeCati
+    102270: TurbeOn2
+    102272: TurbeOn3
+    102274: TurbeOn4
+    102276: TurbeOn5
+    102278: TurbeOn6
+    102280: yaziSagBuyuk
+    102282: yaziSagKucuk
+    102284: yaziSolBuyuk
+    102286: yaziSolKucuk
+    102288: Zemin
+    400000: Burc
+    400002: Burc53
+    400004: Burc54
+    400006: Burc55
+    400008: Cati1
+    400010: //RootNode
+    400012: curve1
+    400014: curve1 1
+    400016: curve10
+    400018: curve11
+    400020: curve2
+    400022: curve3
+    400024: curve4
+    400026: curve8
+    400028: curve9
+    400030: Kapi
+    400032: KapiAlt
+    400034: KapiKolu
+    400036: KapiKolu 1
+    400038: KapiKolu 10
+    400040: KapiKolu 11
+    400042: KapiKolu 12
+    400044: KapiKolu 13
+    400046: KapiKolu 14
+    400048: KapiKolu 15
+    400050: KapiKolu 16
+    400052: KapiKolu 17
+    400054: KapiKolu 18
+    400056: KapiKolu 19
+    400058: KapiKolu 2
+    400060: KapiKolu 20
+    400062: KapiKolu 21
+    400064: KapiKolu 22
+    400066: KapiKolu 23
+    400068: KapiKolu 24
+    400070: KapiKolu 25
+    400072: KapiKolu 26
+    400074: KapiKolu 27
+    400076: KapiKolu 28
+    400078: KapiKolu 29
+    400080: KapiKolu 3
+    400082: KapiKolu 30
+    400084: KapiKolu 31
+    400086: KapiKolu 4
+    400088: KapiKolu 5
+    400090: KapiKolu 6
+    400092: KapiKolu 7
+    400094: KapiKolu 8
+    400096: KapiKolu 9
+    400098: KapiKolu1
+    400100: KapiKoluTabla
+    400102: KapiKoluTabla 1
+    400104: KapiKoluTabla 10
+    400106: KapiKoluTabla 11
+    400108: KapiKoluTabla 12
+    400110: KapiKoluTabla 13
+    400112: KapiKoluTabla 14
+    400114: KapiKoluTabla 15
+    400116: KapiKoluTabla 16
+    400118: KapiKoluTabla 17
+    400120: KapiKoluTabla 18
+    400122: KapiKoluTabla 19
+    400124: KapiKoluTabla 2
+    400126: KapiKoluTabla 20
+    400128: KapiKoluTabla 21
+    400130: KapiKoluTabla 22
+    400132: KapiKoluTabla 23
+    400134: KapiKoluTabla 24
+    400136: KapiKoluTabla 25
+    400138: KapiKoluTabla 26
+    400140: KapiKoluTabla 27
+    400142: KapiKoluTabla 28
+    400144: KapiKoluTabla 29
+    400146: KapiKoluTabla 3
+    400148: KapiKoluTabla 30
+    400150: KapiKoluTabla 31
+    400152: KapiKoluTabla 4
+    400154: KapiKoluTabla 5
+    400156: KapiKoluTabla 6
+    400158: KapiKoluTabla 7
+    400160: KapiKoluTabla 8
+    400162: KapiKoluTabla 9
+    400164: KapiKoluTabla1
+    400166: KapiKoluTurbe
+    400168: KapiKucuk
+    400170: KapiSagCita
+    400172: KapiTurbe
+    400174: KemerOrta
+    400176: KemerUst
+    400178: KucukKapilar10
+    400180: KucukKapilar11
+    400182: KucukKapilar12
+    400184: KucukKapilar19
+    400186: KucukKapilar20
+    400188: KucukKapilar21
+    400190: KucukKapilar22
+    400192: KucukKapilar23
+    400194: KucukKapilar24
+    400196: KucukKapilar25
+    400198: KucukKapilar26
+    400200: KucukKapilar27
+    400202: KucukKapilar28
+    400204: KucukKapilar29
+    400206: KucukKapilar3
+    400208: KucukKapilar30
+    400210: KucukKapilar31
+    400212: KucukKapilar32
+    400214: KucukKapilar33
+    400216: KucukKapilar34
+    400218: KucukKapilar35
+    400220: KucukKapilar36
+    400222: KucukKapilar4
+    400224: KucukKapilar40
+    400226: KucukKapilar41
+    400228: KucukKapilar42
+    400230: KucukKapilar43
+    400232: KucukKapilar5
+    400234: KucukKapilar6
+    400236: KucukKapilar7
+    400238: KucukKapilar8
+    400240: KucukKapilar9
+    400242: MinareOnSag
+    400244: MinareOnSol
+    400246: MinareSag
+    400248: MinareSol
+    400250: OnKapiKemer
+    400252: OnKapiTahta
+    400254: pCone1
+    400256: pCone1 1
+    400258: pCube110
+    400260: pCube111
+    400262: pCube112
+    400264: pCube123
+    400266: pCube124
+    400268: pCube125
+    400270: pCube126
+    400272: pCube127
+    400274: pCube128
+    400276: pCube129
+    400278: pCube130
+    400280: pCube131
+    400282: pCube132
+    400284: pCube135
+    400286: pCube136
+    400288: pCube137
+    400290: pCube138
+    400292: pCube140
+    400294: pCube141
+    400296: pCube142
+    400298: pCube143
+    400300: pCube144
+    400302: pCube145
+    400304: pCube147
+    400306: pCube148
+    400308: pCube149
+    400310: pCube150
+    400312: pCube151
+    400314: pCube152
+    400316: pCube153
+    400318: pCube154
+    400320: pCube155
+    400322: pCube156
+    400324: pCube157
+    400326: pCube159
+    400328: pCube160
+    400330: pCube161
+    400332: pCube162
+    400334: pCube163
+    400336: pCube164
+    400338: pCube165
+    400340: pCube166
+    400342: pCube167
+    400344: pCube168
+    400346: pCube169
+    400348: pCube170
+    400350: pCube171
+    400352: pCube172
+    400354: pCube173
+    400356: pCube174
+    400358: pCube31
+    400360: pCube31 1
+    400362: pCube34
+    400364: pCube34 1
+    400366: pCube45
+    400368: pCube46
+    400370: pCube55
+    400372: pCube72
+    400374: pCube76
+    400376: pCube79
+    400378: pCube8
+    400380: pCube81
+    400382: pCube82
+    400384: pCube89
+    400386: pCylinder18
+    400388: pCylinder20
+    400390: pCylinder21
+    400392: pCylinder22
+    400394: pCylinder23
+    400396: pCylinder24
+    400398: pCylinder25
+    400400: pCylinder26
+    400402: pCylinder27
+    400404: pCylinder28
+    400406: pCylinder31
+    400408: pCylinder32
+    400410: pCylinder33
+    400412: pCylinder34
+    400414: pCylinder35
+    400416: pCylinder36
+    400418: pCylinder44
+    400420: pCylinder46
+    400422: pCylinder48
+    400424: pCylinder5
+    400426: pCylinder5 1
+    400428: pCylinder63
+    400430: pCylinder64
+    400432: pCylinder65
+    400434: pCylinder66
+    400436: pCylinder67
+    400438: pCylinder68
+    400440: pCylinder69
+    400442: pCylinder70
+    400444: pCylinder71
+    400446: pCylinder72
+    400448: pCylinder73
+    400450: pCylinder74
+    400452: pCylinder75
+    400454: pCylinder76
+    400456: pCylinder77
+    400458: pCylinder78
+    400460: pCylinder79
+    400462: pCylinder80
+    400464: pCylinder82
+    400466: pCylinder83
+    400468: polySurface100
+    400470: polySurface101
+    400472: polySurface102
+    400474: polySurface103
+    400476: polySurface104
+    400478: polySurface106
+    400480: polySurface107
+    400482: polySurface108
+    400484: polySurface111
+    400486: polySurface112
+    400488: polySurface113
+    400490: polySurface114
+    400492: polySurface115
+    400494: polySurface116
+    400496: polySurface117
+    400498: polySurface118
+    400500: polySurface119
+    400502: polySurface13
+    400504: polySurface130
+    400506: polySurface133
+    400508: polySurface134
+    400510: polySurface135
+    400512: polySurface237
+    400514: polySurface238
+    400516: polySurface24
+    400518: polySurface242
+    400520: polySurface242 1
+    400522: polySurface243
+    400524: polySurface244
+    400526: polySurface245
+    400528: polySurface246
+    400530: polySurface247
+    400532: polySurface248
+    400534: polySurface248 1
+    400536: polySurface249
+    400538: polySurface250
+    400540: polySurface250 1
+    400542: polySurface251
+    400544: polySurface252
+    400546: polySurface253
+    400548: polySurface255
+    400550: polySurface256
+    400552: polySurface257
+    400554: polySurface257 1
+    400556: polySurface258
+    400558: polySurface259
+    400560: polySurface259 1
+    400562: polySurface260
+    400564: polySurface261
+    400566: polySurface262
+    400568: polySurface263
+    400570: polySurface263 1
+    400572: polySurface264
+    400574: polySurface265
+    400576: polySurface266
+    400578: polySurface266 1
+    400580: polySurface267
+    400582: polySurface267 1
+    400584: polySurface268
+    400586: polySurface268 1
+    400588: polySurface269
+    400590: polySurface269 1
+    400592: polySurface270
+    400594: polySurface271
+    400596: polySurface272
+    400598: polySurface273
+    400600: polySurface274
+    400602: polySurface274 1
+    400604: polySurface275
+    400606: polySurface276
+    400608: polySurface277
+    400610: polySurface278
+    400612: polySurface279
+    400614: polySurface279 1
+    400616: polySurface280
+    400618: polySurface281
+    400620: polySurface282
+    400622: polySurface283
+    400624: polySurface284
+    400626: polySurface285
+    400628: polySurface286
+    400630: polySurface287
+    400632: polySurface288
+    400634: polySurface288 1
+    400636: polySurface289
+    400638: polySurface290
+    400640: polySurface290 1
+    400642: polySurface291
+    400644: polySurface292
+    400646: polySurface292 1
+    400648: polySurface293
+    400650: polySurface293 1
+    400652: polySurface294
+    400654: polySurface295
+    400656: polySurface296
+    400658: polySurface296 1
+    400660: polySurface297
+    400662: polySurface298
+    400664: polySurface299
+    400666: polySurface299 1
+    400668: polySurface300
+    400670: polySurface301
+    400672: polySurface302
+    400674: polySurface303
+    400676: polySurface304
+    400678: polySurface305
+    400680: polySurface306
+    400682: polySurface307
+    400684: polySurface308
+    400686: polySurface309
+    400688: polySurface310
+    400690: polySurface311
+    400692: polySurface312
+    400694: polySurface313
+    400696: polySurface314
+    400698: polySurface315
+    400700: polySurface316
+    400702: polySurface317
+    400704: polySurface317 1
+    400706: polySurface318
+    400708: polySurface319
+    400710: polySurface320
+    400712: polySurface321
+    400714: polySurface322
+    400716: polySurface323
+    400718: polySurface324
+    400720: polySurface325
+    400722: polySurface325 1
+    400724: polySurface326
+    400726: polySurface327
+    400728: polySurface328
+    400730: polySurface329
+    400732: polySurface330
+    400734: polySurface330 1
+    400736: polySurface331
+    400738: polySurface332
+    400740: polySurface332 1
+    400742: polySurface333
+    400744: polySurface334
+    400746: polySurface334 1
+    400748: polySurface335
+    400750: polySurface336
+    400752: polySurface337
+    400754: polySurface338
+    400756: polySurface339
+    400758: polySurface34
+    400760: polySurface340
+    400762: polySurface341
+    400764: polySurface342
+    400766: polySurface343
+    400768: polySurface344
+    400770: polySurface344 1
+    400772: polySurface345
+    400774: polySurface347
+    400776: polySurface348
+    400778: polySurface349
+    400780: polySurface350
+    400782: polySurface351
+    400784: polySurface352
+    400786: polySurface353
+    400788: polySurface354
+    400790: polySurface355
+    400792: polySurface356
+    400794: polySurface357
+    400796: polySurface358
+    400798: polySurface359
+    400800: polySurface36
+    400802: polySurface360
+    400804: polySurface361
+    400806: polySurface362
+    400808: polySurface363
+    400810: polySurface364
+    400812: polySurface365
+    400814: polySurface366
+    400816: polySurface367
+    400818: polySurface368
+    400820: polySurface369
+    400822: polySurface370
+    400824: polySurface371
+    400826: polySurface372
+    400828: polySurface373
+    400830: polySurface374
+    400832: polySurface375
+    400834: polySurface376
+    400836: polySurface377
+    400838: polySurface378
+    400840: polySurface379
+    400842: polySurface380
+    400844: polySurface381
+    400846: polySurface382
+    400848: polySurface383
+    400850: polySurface384
+    400852: polySurface385
+    400854: polySurface386
+    400856: polySurface387
+    400858: polySurface388
+    400860: polySurface389
+    400862: polySurface390
+    400864: polySurface391
+    400866: polySurface392
+    400868: polySurface393
+    400870: polySurface394
+    400872: polySurface395
+    400874: polySurface396
+    400876: polySurface397
+    400878: polySurface398
+    400880: polySurface399
+    400882: polySurface400
+    400884: polySurface401
+    400886: polySurface402
+    400888: polySurface403
+    400890: polySurface404
+    400892: polySurface405
+    400894: polySurface406
+    400896: polySurface407
+    400898: polySurface408
+    400900: polySurface409
+    400902: polySurface410
+    400904: polySurface411
+    400906: polySurface412
+    400908: polySurface413
+    400910: polySurface414
+    400912: polySurface415
+    400914: polySurface416
+    400916: polySurface417
+    400918: polySurface418
+    400920: polySurface419
+    400922: polySurface420
+    400924: polySurface421
+    400926: polySurface422
+    400928: polySurface423
+    400930: polySurface423 1
+    400932: polySurface424
+    400934: polySurface425
+    400936: polySurface426
+    400938: polySurface427
+    400940: polySurface428
+    400942: polySurface429
+    400944: polySurface430
+    400946: polySurface431
+    400948: polySurface432
+    400950: polySurface433
+    400952: polySurface434
+    400954: polySurface435
+    400956: polySurface436
+    400958: polySurface437
+    400960: polySurface438
+    400962: polySurface439
+    400964: polySurface440
+    400966: polySurface441
+    400968: polySurface442
+    400970: polySurface443
+    400972: polySurface444
+    400974: polySurface445
+    400976: polySurface446
+    400978: polySurface447
+    400980: polySurface448
+    400982: polySurface449
+    400984: polySurface450
+    400986: polySurface451
+    400988: polySurface452
+    400990: polySurface453
+    400992: polySurface454
+    400994: polySurface455
+    400996: polySurface456
+    400998: polySurface457
+    401000: polySurface458
+    401002: polySurface458 1
+    401004: polySurface459
+    401006: polySurface460
+    401008: polySurface460 1
+    401010: polySurface461
+    401012: polySurface462
+    401014: polySurface463
+    401016: polySurface464
+    401018: polySurface465
+    401020: polySurface466
+    401022: polySurface467
+    401024: polySurface468
+    401026: polySurface469
+    401028: polySurface470
+    401030: polySurface471
+    401032: polySurface472
+    401034: polySurface473
+    401036: polySurface474
+    401038: polySurface475
+    401040: polySurface476
+    401042: polySurface477
+    401044: polySurface477 1
+    401046: polySurface478
+    401048: polySurface479
+    401050: polySurface480
+    401052: polySurface481
+    401054: polySurface482
+    401056: polySurface483
+    401058: polySurface484
+    401060: polySurface485
+    401062: polySurface486
+    401064: polySurface487
+    401066: polySurface488
+    401068: polySurface489
+    401070: polySurface49
+    401072: polySurface490
+    401074: polySurface491
+    401076: polySurface492
+    401078: polySurface493
+    401080: polySurface494
+    401082: polySurface495
+    401084: polySurface496
+    401086: polySurface497
+    401088: polySurface497 1
+    401090: polySurface498
+    401092: polySurface499
+    401094: polySurface500
+    401096: polySurface501
+    401098: polySurface502
+    401100: polySurface502 1
+    401102: polySurface503
+    401104: polySurface504
+    401106: polySurface505
+    401108: polySurface506
+    401110: polySurface507
+    401112: polySurface508
+    401114: polySurface509
+    401116: polySurface510
+    401118: polySurface511
+    401120: polySurface512
+    401122: polySurface513
+    401124: polySurface514
+    401126: polySurface515
+    401128: polySurface516
+    401130: polySurface517
+    401132: polySurface518
+    401134: polySurface519
+    401136: polySurface519 1
+    401138: polySurface52
+    401140: polySurface520
+    401142: polySurface521
+    401144: polySurface522
+    401146: polySurface523
+    401148: polySurface524
+    401150: polySurface525
+    401152: polySurface526
+    401154: polySurface527
+    401156: polySurface528
+    401158: polySurface529
+    401160: polySurface530
+    401162: polySurface531
+    401164: polySurface532
+    401166: polySurface533
+    401168: polySurface534
+    401170: polySurface535
+    401172: polySurface537
+    401174: polySurface538
+    401176: polySurface539
+    401178: polySurface540
+    401180: polySurface541
+    401182: polySurface542
+    401184: polySurface543
+    401186: polySurface544
+    401188: polySurface545
+    401190: polySurface546
+    401192: polySurface547
+    401194: polySurface547 1
+    401196: polySurface548
+    401198: polySurface55
+    401200: polySurface550
+    401202: polySurface552
+    401204: polySurface553
+    401206: polySurface554
+    401208: polySurface555
+    401210: polySurface556
+    401212: polySurface557
+    401214: polySurface557 1
+    401216: polySurface558
+    401218: polySurface559
+    401220: polySurface560
+    401222: polySurface561
+    401224: polySurface562
+    401226: polySurface563
+    401228: polySurface563 1
+    401230: polySurface564
+    401232: polySurface565
+    401234: polySurface566
+    401236: polySurface567
+    401238: polySurface568
+    401240: polySurface568 1
+    401242: polySurface569
+    401244: polySurface569 1
+    401246: polySurface57
+    401248: polySurface570
+    401250: polySurface571
+    401252: polySurface572
+    401254: polySurface577
+    401256: polySurface578
+    401258: polySurface579
+    401260: polySurface580
+    401262: polySurface581
+    401264: polySurface582
+    401266: polySurface583
+    401268: polySurface584
+    401270: polySurface585
+    401272: polySurface586
+    401274: polySurface587
+    401276: polySurface588
+    401278: polySurface589
+    401280: polySurface590
+    401282: polySurface591
+    401284: polySurface592
+    401286: polySurface594
+    401288: polySurface595
+    401290: polySurface596
+    401292: polySurface597
+    401294: polySurface597 1
+    401296: polySurface598
+    401298: polySurface60
+    401300: polySurface600
+    401302: polySurface601
+    401304: polySurface602
+    401306: polySurface603
+    401308: polySurface604
+    401310: polySurface605
+    401312: polySurface606
+    401314: polySurface607
+    401316: polySurface607 1
+    401318: polySurface608
+    401320: polySurface81
+    401322: polySurface82
+    401324: polySurface83
+    401326: polySurface84
+    401328: polySurface85
+    401330: polySurface86
+    401332: polySurface87
+    401334: polySurface88
+    401336: polySurface91
+    401338: polySurface92
+    401340: polySurface93
+    401342: polySurface94
+    401344: polySurface95
+    401346: polySurface96
+    401348: polySurface97
+    401350: polySurface99
+    401352: pSphere1
+    401354: pSphere2
+    401356: SagKanat
+    401358: SagKanat3
+    401360: SagKanat4
+    401362: SagKanat5
+    401364: SagKanatOn
+    401366: SagKanatOn1
+    401368: SolKanat
+    401370: SolKanat1
+    401372: SolKanat2
+    401374: SolKanatOn
+    401376: Supurgelik5
+    401378: Sutun8
+    401380: SutunYuvarlak
+    401382: TablaAlt1
+    401384: transform169
+    401386: transform170
+    401388: transform175
+    401390: transform176
+    401392: transform177
+    401394: transform178
+    401396: transform179
+    401398: transform180
+    401400: transform181
+    401402: transform182
+    401404: transform183
+    401406: transform184
+    401408: transform185
+    401410: transform186
+    401412: transform187
+    401414: transform188
+    401416: transform189
+    401418: transform190
+    401420: transform191
+    401422: transform192
+    401424: transform193
+    401426: transform194
+    401428: transform195
+    401430: transform196
+    401432: transform197
+    401434: transform198
+    401436: transform199
+    401438: transform200
+    401440: transform201
+    401442: transform202
+    401444: transform203
+    401446: transform204
+    401448: transform205
+    401450: transform206
+    401452: transform207
+    401454: transform208
+    401456: transform209
+    401458: transform210
+    401460: transform211
+    401462: transform212
+    401464: transform213
+    401466: transform214
+    401468: transform215
+    401470: transform216
+    401472: transform217
+    401474: transform218
+    401476: transform219
+    401478: transform220
+    401480: transform221
+    401482: transform222
+    401484: transform223
+    401486: transform224
+    401488: transform225
+    401490: transform226
+    401492: transform227
+    401494: transform228
+    401496: transform229
+    401498: transform230
+    401500: transform231
+    401502: transform232
+    401504: transform233
+    401506: transform234
+    401508: transform235
+    401510: transform236
+    401512: transform237
+    401514: transform238
+    401516: transform239
+    401518: transform240
+    401520: transform241
+    401522: transform242
+    401524: transform243
+    401526: transform244
+    401528: transform245
+    401530: transform246
+    401532: transform247
+    401534: transform248
+    401536: transform249
+    401538: transform250
+    401540: transform251
+    401542: transform252
+    401544: transform253
+    401546: transform254
+    401548: transform255
+    401550: transform256
+    401552: transform257
+    401554: transform258
+    401556: transform259
+    401558: transform260
+    401560: transform261
+    401562: transform262
+    401564: transform263
+    401566: transform264
+    401568: transform265
+    401570: transform266
+    401572: transform267
+    401574: transform268
+    401576: transform269
+    401578: transform270
+    401580: transform271
+    401582: transform272
+    401584: transform273
+    401586: transform274
+    401588: transform275
+    401590: transform276
+    401592: transform277
+    401594: transform278
+    401596: transform279
+    401598: transform280
+    401600: transform281
+    401602: transform282
+    401604: transform283
+    401606: transform284
+    401608: transform285
+    401610: transform286
+    401612: transform287
+    401614: transform288
+    401616: transform289
+    401618: transform290
+    401620: transform291
+    401622: transform292
+    401624: transform293
+    401626: transform294
+    401628: transform295
+    401630: transform296
+    401632: transform297
+    401634: transform298
+    401636: transform299
+    401638: transform300
+    401640: transform301
+    401642: transform302
+    401644: transform303
+    401646: transform304
+    401648: transform305
+    401650: transform306
+    401652: transform307
+    401654: transform308
+    401656: transform309
+    401658: transform310
+    401660: transform311
+    401662: transform312
+    401664: transform313
+    401666: transform314
+    401668: transform315
+    401670: transform316
+    401672: transform317
+    401674: transform318
+    401676: transform319
+    401678: transform320
+    401680: transform321
+    401682: transform322
+    401684: transform323
+    401686: transform324
+    401688: transform325
+    401690: transform326
+    401692: transform327
+    401694: transform328
+    401696: transform329
+    401698: transform330
+    401700: transform331
+    401702: transform332
+    401704: transform333
+    401706: transform334
+    401708: transform335
+    401710: transform336
+    401712: transform337
+    401714: transform338
+    401716: transform339
+    401718: transform340
+    401720: transform341
+    401722: transform342
+    401724: transform343
+    401726: transform344
+    401728: transform345
+    401730: transform346
+    401732: transform347
+    401734: transform348
+    401736: transform349
+    401738: transform350
+    401740: transform351
+    401742: transform352
+    401744: transform353
+    401746: transform354
+    401748: transform355
+    401750: transform356
+    401752: transform357
+    401754: transform358
+    401756: transform359
+    401758: transform360
+    401760: transform361
+    401762: transform362
+    401764: transform363
+    401766: transform364
+    401768: transform365
+    401770: transform366
+    401772: transform367
+    401774: transform368
+    401776: transform369
+    401778: transform370
+    401780: transform371
+    401782: transform372
+    401784: transform373
+    401786: transform374
+    401788: transform375
+    401790: transform376
+    401792: transform377
+    401794: transform378
+    401796: transform379
+    401798: transform380
+    401800: transform381
+    401802: transform382
+    401804: transform383
+    401806: transform384
+    401808: transform385
+    401810: transform386
+    401812: transform387
+    401814: transform388
+    401816: transform389
+    401818: transform390
+    401820: transform391
+    401822: transform392
+    401824: transform393
+    401826: transform394
+    401828: transform395
+    401830: transform396
+    401832: transform397
+    401834: transform398
+    401836: transform399
+    401838: transform400
+    401840: transform401
+    401842: transform402
+    401844: transform403
+    401846: transform404
+    401848: transform405
+    401850: transform406
+    401852: transform407
+    401854: transform408
+    401856: transform409
+    401858: transform410
+    401860: transform411
+    401862: transform412
+    401864: transform413
+    401866: transform414
+    401868: transform415
+    401870: transform416
+    401872: transform417
+    401874: transform418
+    401876: transform419
+    401878: transform420
+    401880: transform421
+    401882: transform422
+    401884: transform423
+    401886: transform424
+    401888: transform425
+    401890: transform426
+    401892: transform427
+    401894: transform428
+    401896: transform429
+    401898: transform430
+    401900: transform431
+    401902: transform432
+    401904: transform433
+    401906: transform434
+    401908: transform435
+    401910: transform436
+    401912: transform437
+    401914: transform438
+    401916: transform439
+    401918: transform440
+    401920: transform441
+    401922: transform442
+    401924: transform443
+    401926: transform444
+    401928: transform445
+    401930: transform446
+    401932: transform447
+    401934: transform448
+    401936: transform449
+    401938: transform450
+    401940: transform451
+    401942: transform452
+    401944: transform453
+    401946: transform454
+    401948: transform455
+    401950: transform456
+    401952: transform457
+    401954: transform458
+    401956: transform459
+    401958: transform460
+    401960: transform461
+    401962: transform462
+    401964: transform463
+    401966: transform464
+    401968: transform465
+    401970: transform466
+    401972: transform467
+    401974: transform468
+    401976: transform469
+    401978: transform470
+    401980: transform471
+    401982: transform472
+    401984: transform473
+    401986: transform474
+    401988: transform475
+    401990: transform476
+    401992: transform477
+    401994: transform478
+    401996: transform479
+    401998: transform480
+    402000: transform481
+    402002: transform482
+    402004: transform483
+    402006: transform484
+    402008: transform485
+    402010: transform486
+    402012: transform487
+    402014: transform488
+    402016: transform489
+    402018: transform490
+    402020: transform491
+    402022: transform492
+    402024: transform493
+    402026: transform494
+    402028: transform495
+    402030: transform496
+    402032: transform497
+    402034: transform498
+    402036: transform499
+    402038: transform500
+    402040: transform501
+    402042: transform502
+    402044: transform503
+    402046: transform504
+    402048: transform505
+    402050: transform506
+    402052: transform507
+    402054: transform508
+    402056: transform509
+    402058: transform510
+    402060: transform511
+    402062: transform512
+    402064: transform513
+    402066: transform514
+    402068: transform515
+    402070: transform516
+    402072: transform517
+    402074: transform518
+    402076: transform519
+    402078: transform520
+    402080: transform521
+    402082: transform522
+    402084: transform523
+    402086: transform524
+    402088: transform525
+    402090: transform526
+    402092: transform527
+    402094: transform528
+    402096: transform529
+    402098: transform530
+    402100: transform531
+    402102: transform532
+    402104: transform533
+    402106: transform534
+    402108: transform535
+    402110: transform536
+    402112: transform537
+    402114: transform538
+    402116: transform539
+    402118: transform540
+    402120: transform541
+    402122: transform542
+    402124: transform543
+    402126: transform544
+    402128: transform545
+    402130: transform546
+    402132: transform547
+    402134: transform548
+    402136: transform549
+    402138: transform550
+    402140: transform551
+    402142: transform552
+    402144: transform553
+    402146: transform554
+    402148: transform555
+    402150: transform556
+    402152: transform557
+    402154: transform558
+    402156: transform559
+    402158: transform560
+    402160: transform561
+    402162: transform562
+    402164: transform563
+    402166: transform564
+    402168: transform565
+    402170: transform566
+    402172: transform567
+    402174: transform568
+    402176: transform580
+    402178: transform581
+    402180: transform582
+    402182: transform583
+    402184: transform584
+    402186: transform585
+    402188: transform586
+    402190: transform587
+    402192: transform588
+    402194: transform589
+    402196: transform590
+    402198: transform591
+    402200: transform592
+    402202: transform593
+    402204: transform594
+    402206: transform595
+    402208: transform596
+    402210: transform597
+    402212: transform598
+    402214: transform599
+    402216: transform600
+    402218: transform601
+    402220: transform602
+    402222: transform603
+    402224: transform604
+    402226: transform605
+    402228: transform606
+    402230: transform607
+    402232: transform608
+    402234: transform609
+    402236: transform610
+    402238: transform611
+    402240: transform612
+    402242: transform613
+    402244: transform614
+    402246: transform615
+    402248: transform616
+    402250: transform617
+    402252: transform618
+    402254: transform619
+    402256: transform620
+    402258: transform621
+    402260: transform622
+    402262: transform623
+    402264: transform624
+    402266: transform625
+    402268: TurbeCati
+    402270: TurbeOn2
+    402272: TurbeOn3
+    402274: TurbeOn4
+    402276: TurbeOn5
+    402278: TurbeOn6
+    402280: yaziSagBuyuk
+    402282: yaziSagKucuk
+    402284: yaziSolBuyuk
+    402286: yaziSolKucuk
+    402288: Zemin
+    2300000: Burc55
+    2300002: Cati1
+    2300004: Kapi
+    2300006: KapiAlt
+    2300008: KapiKolu
+    2300010: KapiKolu 1
+    2300012: KapiKolu 10
+    2300014: KapiKolu 11
+    2300016: KapiKolu 12
+    2300018: KapiKolu 13
+    2300020: KapiKolu 14
+    2300022: KapiKolu 15
+    2300024: KapiKolu 16
+    2300026: KapiKolu 17
+    2300028: KapiKolu 18
+    2300030: KapiKolu 19
+    2300032: KapiKolu 2
+    2300034: KapiKolu 20
+    2300036: KapiKolu 21
+    2300038: KapiKolu 22
+    2300040: KapiKolu 23
+    2300042: KapiKolu 24
+    2300044: KapiKolu 25
+    2300046: KapiKolu 26
+    2300048: KapiKolu 27
+    2300050: KapiKolu 28
+    2300052: KapiKolu 29
+    2300054: KapiKolu 3
+    2300056: KapiKolu 30
+    2300058: KapiKolu 31
+    2300060: KapiKolu 4
+    2300062: KapiKolu 5
+    2300064: KapiKolu 6
+    2300066: KapiKolu 7
+    2300068: KapiKolu 8
+    2300070: KapiKolu 9
+    2300072: KapiKoluTabla
+    2300074: KapiKoluTabla 1
+    2300076: KapiKoluTabla 10
+    2300078: KapiKoluTabla 11
+    2300080: KapiKoluTabla 12
+    2300082: KapiKoluTabla 13
+    2300084: KapiKoluTabla 14
+    2300086: KapiKoluTabla 15
+    2300088: KapiKoluTabla 16
+    2300090: KapiKoluTabla 17
+    2300092: KapiKoluTabla 18
+    2300094: KapiKoluTabla 19
+    2300096: KapiKoluTabla 2
+    2300098: KapiKoluTabla 20
+    2300100: KapiKoluTabla 21
+    2300102: KapiKoluTabla 22
+    2300104: KapiKoluTabla 23
+    2300106: KapiKoluTabla 24
+    2300108: KapiKoluTabla 25
+    2300110: KapiKoluTabla 26
+    2300112: KapiKoluTabla 27
+    2300114: KapiKoluTabla 28
+    2300116: KapiKoluTabla 29
+    2300118: KapiKoluTabla 3
+    2300120: KapiKoluTabla 30
+    2300122: KapiKoluTabla 31
+    2300124: KapiKoluTabla 4
+    2300126: KapiKoluTabla 5
+    2300128: KapiKoluTabla 6
+    2300130: KapiKoluTabla 7
+    2300132: KapiKoluTabla 8
+    2300134: KapiKoluTabla 9
+    2300136: KapiKoluTurbe
+    2300138: KapiKucuk
+    2300140: KapiSagCita
+    2300142: KapiTurbe
+    2300144: KemerOrta
+    2300146: KucukKapilar10
+    2300148: KucukKapilar11
+    2300150: KucukKapilar12
+    2300152: KucukKapilar19
+    2300154: KucukKapilar20
+    2300156: KucukKapilar21
+    2300158: KucukKapilar22
+    2300160: KucukKapilar23
+    2300162: KucukKapilar24
+    2300164: KucukKapilar25
+    2300166: KucukKapilar26
+    2300168: KucukKapilar27
+    2300170: KucukKapilar28
+    2300172: KucukKapilar29
+    2300174: KucukKapilar3
+    2300176: KucukKapilar30
+    2300178: KucukKapilar31
+    2300180: KucukKapilar32
+    2300182: KucukKapilar33
+    2300184: KucukKapilar34
+    2300186: KucukKapilar35
+    2300188: KucukKapilar36
+    2300190: KucukKapilar4
+    2300192: KucukKapilar40
+    2300194: KucukKapilar41
+    2300196: KucukKapilar42
+    2300198: KucukKapilar43
+    2300200: KucukKapilar5
+    2300202: KucukKapilar6
+    2300204: KucukKapilar7
+    2300206: KucukKapilar8
+    2300208: KucukKapilar9
+    2300210: MinareOnSag
+    2300212: MinareOnSol
+    2300214: OnKapiKemer
+    2300216: pCone1
+    2300218: pCone1 1
+    2300220: pCube110
+    2300222: pCube111
+    2300224: pCube112
+    2300226: pCube148
+    2300228: pCube149
+    2300230: pCube150
+    2300232: pCube151
+    2300234: pCube152
+    2300236: pCube153
+    2300238: pCube154
+    2300240: pCube155
+    2300242: pCube159
+    2300244: pCube165
+    2300246: pCube31
+    2300248: pCube31 1
+    2300250: pCube34
+    2300252: pCube34 1
+    2300254: pCube45
+    2300256: pCube46
+    2300258: pCube55
+    2300260: pCube79
+    2300262: pCube8
+    2300264: pCube82
+    2300266: pCylinder18
+    2300268: pCylinder20
+    2300270: pCylinder21
+    2300272: pCylinder22
+    2300274: pCylinder23
+    2300276: pCylinder24
+    2300278: pCylinder25
+    2300280: pCylinder26
+    2300282: pCylinder27
+    2300284: pCylinder28
+    2300286: pCylinder31
+    2300288: pCylinder32
+    2300290: pCylinder33
+    2300292: pCylinder46
+    2300294: pCylinder5
+    2300296: pCylinder5 1
+    2300298: pCylinder76
+    2300300: polySurface100
+    2300302: polySurface101
+    2300304: polySurface102
+    2300306: polySurface103
+    2300308: polySurface104
+    2300310: polySurface106
+    2300312: polySurface107
+    2300314: polySurface108
+    2300316: polySurface111
+    2300318: polySurface112
+    2300320: polySurface113
+    2300322: polySurface114
+    2300324: polySurface115
+    2300326: polySurface116
+    2300328: polySurface117
+    2300330: polySurface118
+    2300332: polySurface119
+    2300334: polySurface133
+    2300336: polySurface237
+    2300338: polySurface238
+    2300340: polySurface49
+    2300342: polySurface550
+    2300344: polySurface552
+    2300346: polySurface553
+    2300348: polySurface554
+    2300350: polySurface555
+    2300352: polySurface556
+    2300354: polySurface557
+    2300356: polySurface561
+    2300358: polySurface562
+    2300360: polySurface563
+    2300362: polySurface564
+    2300364: polySurface566
+    2300366: polySurface567
+    2300368: polySurface568
+    2300370: polySurface569
+    2300372: polySurface582
+    2300374: polySurface583
+    2300376: polySurface584
+    2300378: polySurface585
+    2300380: polySurface586
+    2300382: polySurface587
+    2300384: polySurface588
+    2300386: polySurface589
+    2300388: polySurface590
+    2300390: polySurface591
+    2300392: polySurface592
+    2300394: polySurface594
+    2300396: polySurface595
+    2300398: polySurface597
+    2300400: polySurface60
+    2300402: polySurface608
+    2300404: polySurface85
+    2300406: polySurface86
+    2300408: polySurface87
+    2300410: polySurface88
+    2300412: polySurface91
+    2300414: polySurface92
+    2300416: polySurface93
+    2300418: polySurface94
+    2300420: polySurface95
+    2300422: polySurface96
+    2300424: polySurface97
+    2300426: polySurface99
+    2300428: SagKanat5
+    2300430: SagKanatOn1
+    2300432: SolKanat2
+    2300434: SolKanatOn
+    2300436: Supurgelik5
+    2300438: Sutun8
+    2300440: SutunYuvarlak
+    2300442: TablaAlt1
+    2300444: TurbeCati
+    2300446: TurbeOn6
+    2300448: yaziSagBuyuk
+    2300450: yaziSagKucuk
+    2300452: yaziSolBuyuk
+    2300454: yaziSolKucuk
+    2300456: Zemin
+    3300000: Burc55
+    3300002: Cati1
+    3300004: Kapi
+    3300006: KapiAlt
+    3300008: KapiKolu
+    3300010: KapiKolu 1
+    3300012: KapiKolu 10
+    3300014: KapiKolu 11
+    3300016: KapiKolu 12
+    3300018: KapiKolu 13
+    3300020: KapiKolu 14
+    3300022: KapiKolu 15
+    3300024: KapiKolu 16
+    3300026: KapiKolu 17
+    3300028: KapiKolu 18
+    3300030: KapiKolu 19
+    3300032: KapiKolu 2
+    3300034: KapiKolu 20
+    3300036: KapiKolu 21
+    3300038: KapiKolu 22
+    3300040: KapiKolu 23
+    3300042: KapiKolu 24
+    3300044: KapiKolu 25
+    3300046: KapiKolu 26
+    3300048: KapiKolu 27
+    3300050: KapiKolu 28
+    3300052: KapiKolu 29
+    3300054: KapiKolu 3
+    3300056: KapiKolu 30
+    3300058: KapiKolu 31
+    3300060: KapiKolu 4
+    3300062: KapiKolu 5
+    3300064: KapiKolu 6
+    3300066: KapiKolu 7
+    3300068: KapiKolu 8
+    3300070: KapiKolu 9
+    3300072: KapiKoluTabla
+    3300074: KapiKoluTabla 1
+    3300076: KapiKoluTabla 10
+    3300078: KapiKoluTabla 11
+    3300080: KapiKoluTabla 12
+    3300082: KapiKoluTabla 13
+    3300084: KapiKoluTabla 14
+    3300086: KapiKoluTabla 15
+    3300088: KapiKoluTabla 16
+    3300090: KapiKoluTabla 17
+    3300092: KapiKoluTabla 18
+    3300094: KapiKoluTabla 19
+    3300096: KapiKoluTabla 2
+    3300098: KapiKoluTabla 20
+    3300100: KapiKoluTabla 21
+    3300102: KapiKoluTabla 22
+    3300104: KapiKoluTabla 23
+    3300106: KapiKoluTabla 24
+    3300108: KapiKoluTabla 25
+    3300110: KapiKoluTabla 26
+    3300112: KapiKoluTabla 27
+    3300114: KapiKoluTabla 28
+    3300116: KapiKoluTabla 29
+    3300118: KapiKoluTabla 3
+    3300120: KapiKoluTabla 30
+    3300122: KapiKoluTabla 31
+    3300124: KapiKoluTabla 4
+    3300126: KapiKoluTabla 5
+    3300128: KapiKoluTabla 6
+    3300130: KapiKoluTabla 7
+    3300132: KapiKoluTabla 8
+    3300134: KapiKoluTabla 9
+    3300136: KapiKoluTurbe
+    3300138: KapiKucuk
+    3300140: KapiSagCita
+    3300142: KapiTurbe
+    3300144: KemerOrta
+    3300146: KucukKapilar10
+    3300148: KucukKapilar11
+    3300150: KucukKapilar12
+    3300152: KucukKapilar19
+    3300154: KucukKapilar20
+    3300156: KucukKapilar21
+    3300158: KucukKapilar22
+    3300160: KucukKapilar23
+    3300162: KucukKapilar24
+    3300164: KucukKapilar25
+    3300166: KucukKapilar26
+    3300168: KucukKapilar27
+    3300170: KucukKapilar28
+    3300172: KucukKapilar29
+    3300174: KucukKapilar3
+    3300176: KucukKapilar30
+    3300178: KucukKapilar31
+    3300180: KucukKapilar32
+    3300182: KucukKapilar33
+    3300184: KucukKapilar34
+    3300186: KucukKapilar35
+    3300188: KucukKapilar36
+    3300190: KucukKapilar4
+    3300192: KucukKapilar40
+    3300194: KucukKapilar41
+    3300196: KucukKapilar42
+    3300198: KucukKapilar43
+    3300200: KucukKapilar5
+    3300202: KucukKapilar6
+    3300204: KucukKapilar7
+    3300206: KucukKapilar8
+    3300208: KucukKapilar9
+    3300210: MinareOnSag
+    3300212: MinareOnSol
+    3300214: OnKapiKemer
+    3300216: pCone1
+    3300218: pCone1 1
+    3300220: pCube110
+    3300222: pCube111
+    3300224: pCube112
+    3300226: pCube148
+    3300228: pCube149
+    3300230: pCube150
+    3300232: pCube151
+    3300234: pCube152
+    3300236: pCube153
+    3300238: pCube154
+    3300240: pCube155
+    3300242: pCube159
+    3300244: pCube165
+    3300246: pCube31
+    3300248: pCube31 1
+    3300250: pCube34
+    3300252: pCube34 1
+    3300254: pCube45
+    3300256: pCube46
+    3300258: pCube55
+    3300260: pCube79
+    3300262: pCube8
+    3300264: pCube82
+    3300266: pCylinder18
+    3300268: pCylinder20
+    3300270: pCylinder21
+    3300272: pCylinder22
+    3300274: pCylinder23
+    3300276: pCylinder24
+    3300278: pCylinder25
+    3300280: pCylinder26
+    3300282: pCylinder27
+    3300284: pCylinder28
+    3300286: pCylinder31
+    3300288: pCylinder32
+    3300290: pCylinder33
+    3300292: pCylinder46
+    3300294: pCylinder5
+    3300296: pCylinder5 1
+    3300298: pCylinder76
+    3300300: polySurface100
+    3300302: polySurface101
+    3300304: polySurface102
+    3300306: polySurface103
+    3300308: polySurface104
+    3300310: polySurface106
+    3300312: polySurface107
+    3300314: polySurface108
+    3300316: polySurface111
+    3300318: polySurface112
+    3300320: polySurface113
+    3300322: polySurface114
+    3300324: polySurface115
+    3300326: polySurface116
+    3300328: polySurface117
+    3300330: polySurface118
+    3300332: polySurface119
+    3300334: polySurface133
+    3300336: polySurface237
+    3300338: polySurface238
+    3300340: polySurface49
+    3300342: polySurface550
+    3300344: polySurface552
+    3300346: polySurface553
+    3300348: polySurface554
+    3300350: polySurface555
+    3300352: polySurface556
+    3300354: polySurface557
+    3300356: polySurface561
+    3300358: polySurface562
+    3300360: polySurface563
+    3300362: polySurface564
+    3300364: polySurface566
+    3300366: polySurface567
+    3300368: polySurface568
+    3300370: polySurface569
+    3300372: polySurface582
+    3300374: polySurface583
+    3300376: polySurface584
+    3300378: polySurface585
+    3300380: polySurface586
+    3300382: polySurface587
+    3300384: polySurface588
+    3300386: polySurface589
+    3300388: polySurface590
+    3300390: polySurface591
+    3300392: polySurface592
+    3300394: polySurface594
+    3300396: polySurface595
+    3300398: polySurface597
+    3300400: polySurface60
+    3300402: polySurface608
+    3300404: polySurface85
+    3300406: polySurface86
+    3300408: polySurface87
+    3300410: polySurface88
+    3300412: polySurface91
+    3300414: polySurface92
+    3300416: polySurface93
+    3300418: polySurface94
+    3300420: polySurface95
+    3300422: polySurface96
+    3300424: polySurface97
+    3300426: polySurface99
+    3300428: SagKanat5
+    3300430: SagKanatOn1
+    3300432: SolKanat2
+    3300434: SolKanatOn
+    3300436: Supurgelik5
+    3300438: Sutun8
+    3300440: SutunYuvarlak
+    3300442: TablaAlt1
+    3300444: TurbeCati
+    3300446: TurbeOn6
+    3300448: yaziSagBuyuk
+    3300450: yaziSagKucuk
+    3300452: yaziSolBuyuk
+    3300454: yaziSolKucuk
+    3300456: Zemin
+    4300000: MinareOnSol
+    4300002: KapiAlt
+    4300004: Supurgelik5
+    4300006: pCylinder5
+    4300008: pCube31
+    4300010: pCube34
+    4300012: pCone1
+    4300014: yaziSolKucuk
+    4300016: yaziSolBuyuk
+    4300018: pCylinder5
+    4300020: pCube31
+    4300022: pCube34
+    4300024: pCone1
+    4300026: yaziSagKucuk
+    4300028: yaziSagBuyuk
+    4300030: pCube45
+    4300032: pCube46
+    4300034: MinareOnSag
+    4300036: pCylinder18
+    4300038: pCylinder20
+    4300040: pCylinder21
+    4300042: pCylinder22
+    4300044: pCylinder23
+    4300046: pCylinder24
+    4300048: pCylinder25
+    4300050: pCylinder26
+    4300052: pCylinder27
+    4300054: pCylinder28
+    4300056: SutunYuvarlak
+    4300058: Sutun8
+    4300060: pCylinder31
+    4300062: pCylinder32
+    4300064: pCylinder33
+    4300066: polySurface114
+    4300068: polySurface115
+    4300070: polySurface116
+    4300072: polySurface117
+    4300074: polySurface118
+    4300076: polySurface119
+    4300078: polySurface49
+    4300080: polySurface102
+    4300082: polySurface103
+    4300084: polySurface104
+    4300086: polySurface60
+    4300088: polySurface99
+    4300090: polySurface100
+    4300092: polySurface101
+    4300094: pCylinder46
+    4300096: polySurface106
+    4300098: polySurface107
+    4300100: polySurface108
+    4300102: polySurface85
+    4300104: polySurface86
+    4300106: polySurface87
+    4300108: polySurface88
+    4300110: polySurface91
+    4300112: polySurface92
+    4300114: polySurface93
+    4300116: polySurface94
+    4300118: polySurface95
+    4300120: polySurface96
+    4300122: polySurface97
+    4300124: polySurface111
+    4300126: polySurface112
+    4300128: polySurface113
+    4300130: Cati1
+    4300132: TurbeCati
+    4300134: pCube55
+    4300136: Kapi
+    4300138: TablaAlt1
+    4300140: KemerOrta
+    4300142: polySurface133
+    4300144: pCube79
+    4300146: pCube82
+    4300148: pCube8
+    4300150: polySurface550
+    4300152: polySurface552
+    4300154: polySurface553
+    4300156: polySurface554
+    4300158: polySurface555
+    4300160: polySurface556
+    4300162: polySurface561
+    4300164: polySurface562
+    4300166: polySurface564
+    4300168: polySurface566
+    4300170: polySurface567
+    4300172: pCube110
+    4300174: pCube111
+    4300176: pCube112
+    4300178: Zemin
+    4300180: OnKapiKemer
+    4300182: KapiTurbe
+    4300184: KapiKoluTurbe
+    4300186: KapiKucuk
+    4300188: polySurface238
+    4300190: polySurface237
+    4300192: KapiSagCita
+    4300194: Burc55
+    4300196: SolKanatOn
+    4300198: polySurface594
+    4300200: pCube148
+    4300202: pCube149
+    4300204: pCube150
+    4300206: pCube151
+    4300208: pCube152
+    4300210: pCube153
+    4300212: pCube154
+    4300214: pCube155
+    4300216: polySurface569
+    4300218: polySurface582
+    4300220: polySurface583
+    4300222: polySurface584
+    4300224: polySurface585
+    4300226: polySurface586
+    4300228: polySurface587
+    4300230: polySurface588
+    4300232: polySurface589
+    4300234: polySurface590
+    4300236: polySurface591
+    4300238: polySurface592
+    4300240: pCube159
+    4300242: SagKanat5
+    4300244: SolKanat2
+    4300246: pCube165
+    4300248: pCylinder76
+    4300250: TurbeOn6
+    4300252: polySurface595
+    4300254: polySurface597
+    4300256: polySurface568
+    4300258: polySurface563
+    4300260: polySurface557
+    4300262: KucukKapilar3
+    4300264: KapiKolu
+    4300266: KapiKoluTabla
+    4300268: KucukKapilar4
+    4300270: KapiKolu
+    4300272: KapiKoluTabla
+    4300274: KucukKapilar5
+    4300276: KapiKolu
+    4300278: KapiKoluTabla
+    4300280: KucukKapilar6
+    4300282: KapiKolu
+    4300284: KapiKoluTabla
+    4300286: KucukKapilar7
+    4300288: KapiKolu
+    4300290: KapiKoluTabla
+    4300292: KucukKapilar8
+    4300294: KapiKolu
+    4300296: KapiKoluTabla
+    4300298: KucukKapilar9
+    4300300: KapiKolu
+    4300302: KapiKoluTabla
+    4300304: KucukKapilar10
+    4300306: KapiKolu
+    4300308: KapiKoluTabla
+    4300310: KucukKapilar11
+    4300312: KapiKolu
+    4300314: KapiKoluTabla
+    4300316: KucukKapilar12
+    4300318: KapiKolu
+    4300320: KapiKoluTabla
+    4300322: KucukKapilar19
+    4300324: KapiKolu
+    4300326: KapiKoluTabla
+    4300328: KucukKapilar20
+    4300330: KapiKolu
+    4300332: KapiKoluTabla
+    4300334: KucukKapilar21
+    4300336: KapiKolu
+    4300338: KapiKoluTabla
+    4300340: KucukKapilar22
+    4300342: KapiKolu
+    4300344: KapiKoluTabla
+    4300346: KucukKapilar23
+    4300348: KapiKolu
+    4300350: KapiKoluTabla
+    4300352: KucukKapilar24
+    4300354: KapiKolu
+    4300356: KapiKoluTabla
+    4300358: KucukKapilar25
+    4300360: KapiKolu
+    4300362: KapiKoluTabla
+    4300364: KucukKapilar26
+    4300366: KapiKolu
+    4300368: KapiKoluTabla
+    4300370: KucukKapilar27
+    4300372: KapiKolu
+    4300374: KapiKoluTabla
+    4300376: KucukKapilar28
+    4300378: KapiKolu
+    4300380: KapiKoluTabla
+    4300382: KucukKapilar29
+    4300384: KapiKolu
+    4300386: KapiKoluTabla
+    4300388: KucukKapilar30
+    4300390: KapiKolu
+    4300392: KapiKoluTabla
+    4300394: KucukKapilar31
+    4300396: KapiKolu
+    4300398: KapiKoluTabla
+    4300400: KucukKapilar32
+    4300402: KapiKolu
+    4300404: KapiKoluTabla
+    4300406: KucukKapilar33
+    4300408: KapiKolu
+    4300410: KapiKoluTabla
+    4300412: KucukKapilar34
+    4300414: KapiKolu
+    4300416: KapiKoluTabla
+    4300418: KucukKapilar35
+    4300420: KapiKolu
+    4300422: KapiKoluTabla
+    4300424: KucukKapilar36
+    4300426: KapiKolu
+    4300428: KapiKoluTabla
+    4300430: KucukKapilar40
+    4300432: KapiKolu
+    4300434: KapiKoluTabla
+    4300436: KucukKapilar41
+    4300438: KapiKolu
+    4300440: KapiKoluTabla
+    4300442: KucukKapilar42
+    4300444: KapiKolu
+    4300446: KapiKoluTabla
+    4300448: KucukKapilar43
+    4300450: KapiKolu
+    4300452: KapiKoluTabla
+    4300454: SagKanatOn1
+    4300456: polySurface608
+    6400000: Burc55
+    6400002: Cati1
+    6400004: Kapi
+    6400006: KapiAlt
+    6400008: KapiKolu
+    6400010: KapiKolu 1
+    6400012: KapiKolu 10
+    6400014: KapiKolu 11
+    6400016: KapiKolu 12
+    6400018: KapiKolu 13
+    6400020: KapiKolu 14
+    6400022: KapiKolu 15
+    6400024: KapiKolu 16
+    6400026: KapiKolu 17
+    6400028: KapiKolu 18
+    6400030: KapiKolu 19
+    6400032: KapiKolu 2
+    6400034: KapiKolu 20
+    6400036: KapiKolu 21
+    6400038: KapiKolu 22
+    6400040: KapiKolu 23
+    6400042: KapiKolu 24
+    6400044: KapiKolu 25
+    6400046: KapiKolu 26
+    6400048: KapiKolu 27
+    6400050: KapiKolu 28
+    6400052: KapiKolu 29
+    6400054: KapiKolu 3
+    6400056: KapiKolu 30
+    6400058: KapiKolu 31
+    6400060: KapiKolu 4
+    6400062: KapiKolu 5
+    6400064: KapiKolu 6
+    6400066: KapiKolu 7
+    6400068: KapiKolu 8
+    6400070: KapiKolu 9
+    6400072: KapiKoluTabla
+    6400074: KapiKoluTabla 1
+    6400076: KapiKoluTabla 10
+    6400078: KapiKoluTabla 11
+    6400080: KapiKoluTabla 12
+    6400082: KapiKoluTabla 13
+    6400084: KapiKoluTabla 14
+    6400086: KapiKoluTabla 15
+    6400088: KapiKoluTabla 16
+    6400090: KapiKoluTabla 17
+    6400092: KapiKoluTabla 18
+    6400094: KapiKoluTabla 19
+    6400096: KapiKoluTabla 2
+    6400098: KapiKoluTabla 20
+    6400100: KapiKoluTabla 21
+    6400102: KapiKoluTabla 22
+    6400104: KapiKoluTabla 23
+    6400106: KapiKoluTabla 24
+    6400108: KapiKoluTabla 25
+    6400110: KapiKoluTabla 26
+    6400112: KapiKoluTabla 27
+    6400114: KapiKoluTabla 28
+    6400116: KapiKoluTabla 29
+    6400118: KapiKoluTabla 3
+    6400120: KapiKoluTabla 30
+    6400122: KapiKoluTabla 31
+    6400124: KapiKoluTabla 4
+    6400126: KapiKoluTabla 5
+    6400128: KapiKoluTabla 6
+    6400130: KapiKoluTabla 7
+    6400132: KapiKoluTabla 8
+    6400134: KapiKoluTabla 9
+    6400136: KapiKoluTurbe
+    6400138: KapiKucuk
+    6400140: KapiSagCita
+    6400142: KapiTurbe
+    6400144: KemerOrta
+    6400146: KucukKapilar10
+    6400148: KucukKapilar11
+    6400150: KucukKapilar12
+    6400152: KucukKapilar19
+    6400154: KucukKapilar20
+    6400156: KucukKapilar21
+    6400158: KucukKapilar22
+    6400160: KucukKapilar23
+    6400162: KucukKapilar24
+    6400164: KucukKapilar25
+    6400166: KucukKapilar26
+    6400168: KucukKapilar27
+    6400170: KucukKapilar28
+    6400172: KucukKapilar29
+    6400174: KucukKapilar3
+    6400176: KucukKapilar30
+    6400178: KucukKapilar31
+    6400180: KucukKapilar32
+    6400182: KucukKapilar33
+    6400184: KucukKapilar34
+    6400186: KucukKapilar35
+    6400188: KucukKapilar36
+    6400190: KucukKapilar4
+    6400192: KucukKapilar40
+    6400194: KucukKapilar41
+    6400196: KucukKapilar42
+    6400198: KucukKapilar43
+    6400200: KucukKapilar5
+    6400202: KucukKapilar6
+    6400204: KucukKapilar7
+    6400206: KucukKapilar8
+    6400208: KucukKapilar9
+    6400210: MinareOnSag
+    6400212: MinareOnSol
+    6400214: OnKapiKemer
+    6400216: pCone1
+    6400218: pCone1 1
+    6400220: pCube110
+    6400222: pCube111
+    6400224: pCube112
+    6400226: pCube148
+    6400228: pCube149
+    6400230: pCube150
+    6400232: pCube151
+    6400234: pCube152
+    6400236: pCube153
+    6400238: pCube154
+    6400240: pCube155
+    6400242: pCube159
+    6400244: pCube165
+    6400246: pCube31
+    6400248: pCube31 1
+    6400250: pCube34
+    6400252: pCube34 1
+    6400254: pCube45
+    6400256: pCube46
+    6400258: pCube55
+    6400260: pCube79
+    6400262: pCube8
+    6400264: pCube82
+    6400266: pCylinder18
+    6400268: pCylinder20
+    6400270: pCylinder21
+    6400272: pCylinder22
+    6400274: pCylinder23
+    6400276: pCylinder24
+    6400278: pCylinder25
+    6400280: pCylinder26
+    6400282: pCylinder27
+    6400284: pCylinder28
+    6400286: pCylinder31
+    6400288: pCylinder32
+    6400290: pCylinder33
+    6400292: pCylinder46
+    6400294: pCylinder5
+    6400296: pCylinder5 1
+    6400298: pCylinder76
+    6400300: polySurface100
+    6400302: polySurface101
+    6400304: polySurface102
+    6400306: polySurface103
+    6400308: polySurface104
+    6400310: polySurface106
+    6400312: polySurface107
+    6400314: polySurface108
+    6400316: polySurface111
+    6400318: polySurface112
+    6400320: polySurface113
+    6400322: polySurface114
+    6400324: polySurface115
+    6400326: polySurface116
+    6400328: polySurface117
+    6400330: polySurface118
+    6400332: polySurface119
+    6400334: polySurface133
+    6400336: polySurface237
+    6400338: polySurface238
+    6400340: polySurface49
+    6400342: polySurface550
+    6400344: polySurface552
+    6400346: polySurface553
+    6400348: polySurface554
+    6400350: polySurface555
+    6400352: polySurface556
+    6400354: polySurface557
+    6400356: polySurface561
+    6400358: polySurface562
+    6400360: polySurface563
+    6400362: polySurface564
+    6400364: polySurface566
+    6400366: polySurface567
+    6400368: polySurface568
+    6400370: polySurface569
+    6400372: polySurface582
+    6400374: polySurface583
+    6400376: polySurface584
+    6400378: polySurface585
+    6400380: polySurface586
+    6400382: polySurface587
+    6400384: polySurface588
+    6400386: polySurface589
+    6400388: polySurface590
+    6400390: polySurface591
+    6400392: polySurface592
+    6400394: polySurface594
+    6400396: polySurface595
+    6400398: polySurface597
+    6400400: polySurface60
+    6400402: polySurface608
+    6400404: polySurface85
+    6400406: polySurface86
+    6400408: polySurface87
+    6400410: polySurface88
+    6400412: polySurface91
+    6400414: polySurface92
+    6400416: polySurface93
+    6400418: polySurface94
+    6400420: polySurface95
+    6400422: polySurface96
+    6400424: polySurface97
+    6400426: polySurface99
+    6400428: SagKanat5
+    6400430: SagKanatOn1
+    6400432: SolKanat2
+    6400434: SolKanatOn
+    6400436: Supurgelik5
+    6400438: Sutun8
+    6400440: SutunYuvarlak
+    6400442: TablaAlt1
+    6400444: TurbeCati
+    6400446: TurbeOn6
+    6400448: yaziSagBuyuk
+    6400450: yaziSagKucuk
+    6400452: yaziSolBuyuk
+    6400454: yaziSolKucuk
+    6400456: Zemin
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beton
+    second: {fileID: 2100000, guid: f88336252ac426240b09726d9d52bb0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DisDuvar
+    second: {fileID: 2100000, guid: e86e29542d5f4fc449d9b8124da94a07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DisDuvar2
+    second: {fileID: 2100000, guid: 3677af8766cbf2c40ae6fe27bfb82557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MinareResim
+    second: {fileID: 2100000, guid: 4361111617f90ff498a1dfbd4fe8e16c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MinareYuvarlak
+    second: {fileID: 2100000, guid: bc265f96d3539714d9a33d1b6c848283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_KapiKolu
+    second: {fileID: 2100000, guid: 3f18a58e956821e4f94e3cdb37f95470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_KucukKapilar1
+    second: {fileID: 2100000, guid: bd761b8dff18e024da70e1c752cac782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_KucukKapilar2
+    second: {fileID: 2100000, guid: ad49a29118938e348a1f31f9236f54ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_MinareYuvarlak1
+    second: {fileID: 2100000, guid: d5f907d13648c6d4490cf7d082c0f1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_OnKapiDikeySutunSus1
+    second: {fileID: 2100000, guid: 8df592fa10fc4df46a5bc0ef280040ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_TahtaKapi
+    second: {fileID: 2100000, guid: 2b994aa27242834428fd0f69b5ab1662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_TahtaKiris
+    second: {fileID: 2100000, guid: 6e7ff07a1133cd44baccd7b37687debe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_TahtaTrabzan
+    second: {fileID: 2100000, guid: 64060b9ad7ae5594b8d6eb2e4f10557d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_Tavan
+    second: {fileID: 2100000, guid: 431fb19dd50644a4195e5b16235f36bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_TrabzanDemir
+    second: {fileID: 2100000, guid: 69abf52ff0744524a9250870764315da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_TurbeKenar
+    second: {fileID: 2100000, guid: 39b737deddf4d7b48bbc59d324cec45a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_Zemin
+    second: {fileID: 2100000, guid: ed7012a2861d3d040bae1f2ed9065712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_yaziKucuk
+    second: {fileID: 2100000, guid: 2aa6b6fef9ee5ad46af735ca3d88ccaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texCati
+    second: {fileID: 2100000, guid: 1df10eb9702700740a25a5cc48d23b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnKapiDesen
+    second: {fileID: 2100000, guid: 016dd7553928792439a0fb05edf2b423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnKapiDikSutun1
+    second: {fileID: 2100000, guid: c0772a10692b33f418b105021fc43f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnKapiDikSutunSus2
+    second: {fileID: 2100000, guid: be26ac3e32577f9428646ab107c70010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnKapiDikeySus1
+    second: {fileID: 2100000, guid: 8de0f6b0dc3a22e48bdb7e5c7c92b572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnKapiHayat
+    second: {fileID: 2100000, guid: 6b3860633c3e0e946ae12417bd8915fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnKapiUst1
+    second: {fileID: 2100000, guid: ccd9a5b46cfc1e34ba352b879dfab26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texOnicSus
+    second: {fileID: 2100000, guid: 78fc7eabaed2cc342a0905a7b1be01ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texYerDoseme
+    second: {fileID: 2100000, guid: 8f0a2167172873a498bed5e26602c37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texZemin
+    second: {fileID: 2100000, guid: 6201b5f8c2fc0f841a3dd6500b315088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texZeminUzunDesen
+    second: {fileID: 2100000, guid: 62646af71944601478301936aafb7e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textTurbe
+    second: {fileID: 2100000, guid: de5b17330c2e4ab4ba53eb7ba5f3c62a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textTurbeCati
+    second: {fileID: 2100000, guid: dbcbcd589f332924aa36eb544e15fa57, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beton
+    second: {fileID: 2800000, guid: e7c87623ad82a3743bc5bbdf866121e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beton_bump
+    second: {fileID: 2800000, guid: a421a8ee585b3674d90eb1269ab5cef9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Duvar1
+    second: {fileID: 2800000, guid: adf7c7b0e6d67cb4abe816a8d8766ea1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Duvar1_Bump
+    second: {fileID: 2800000, guid: cc4e2225755909a43b7f09f7fd790c5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KapiKolu
+    second: {fileID: 2800000, guid: 44cc575c789adb340afe351c9b7290c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KucukKapilar1
+    second: {fileID: 2800000, guid: 63a6414e46b86314e9314ade8dc4e707, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KucukKapilar2
+    second: {fileID: 2800000, guid: 6fdb43ffd3ead6b4a9c108f6d57be375, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Minare1
+    second: {fileID: 2800000, guid: c0282747c5bf9114689ffc3a430b2918, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnKapiDikeySus1
+    second: {fileID: 2800000, guid: 1a33bc2cf6414074d9fb0327a95c8720, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnKapiDikeySus1_bump
+    second: {fileID: 2800000, guid: 42439e8ce268e104089f7e9caf5c3112, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnKapiDikeySutunSus1
+    second: {fileID: 2800000, guid: a04819758cfef9e4aa3960bd436082c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnKapiDikeySutunSus1_bump
+    second: {fileID: 2800000, guid: 9b608fb801375f14d87150daffc91bad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnKapiDikeySutunSus2
+    second: {fileID: 2800000, guid: d2c61cf1cdb08dd43be558f4e62ff973, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnKapiDikeySutunSus2_bump
+    second: {fileID: 2800000, guid: 7d6232e738d47d3448708cfa732944d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnTahtaKapi
+    second: {fileID: 2800000, guid: 24850dcad22790145b4725f976771c1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnTahtaKapi_bump
+    second: {fileID: 2800000, guid: ca875f48a83c212449aee4cf289c4102, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnZemin
+    second: {fileID: 2800000, guid: df49ff53366a0c343a1486453a86d441, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnZemin1
+    second: {fileID: 2800000, guid: 0aed34a3c07c52740ae2515441163b53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnZemin_bump
+    second: {fileID: 2800000, guid: daa65b8959c04c742a7ef17216eb9467, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TahtaKiris
+    second: {fileID: 2800000, guid: 656f044f574b16c40bce644d8b535074, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TahtaKiris_Bump
+    second: {fileID: 2800000, guid: b0f05100ab0c4fe449020ebeade9423a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TahtaTrabzan
+    second: {fileID: 2800000, guid: 22ba964184c84f041b97bfd8095d7bf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tavan
+    second: {fileID: 2800000, guid: 8f5b72479f55f074bb4ce00f64f08189, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Zemin
+    second: {fileID: 2800000, guid: 3ff493e473d790e47ad46485f7fdfe9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cati
+    second: {fileID: 2800000, guid: 1ec5137b9795a894084846cfa6108036, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: minare1yuvarlak2
+    second: {fileID: 2800000, guid: 9d9412e79ab0d3d4e883bfd5dd090bdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: minareYuvarlak
+    second: {fileID: 2800000, guid: 61031f8bacb2bf04485d037e6454d520, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onkapiHayatAgaci
+    second: {fileID: 2800000, guid: 21d67695cc0fcbe4ba5b7ed087936f27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onkapiHayatAgaci_bump
+    second: {fileID: 2800000, guid: 2b04eef2b7d81cb4c8a42ab5acd472ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onkapiSolic
+    second: {fileID: 2800000, guid: e1ad3b51ff1115d4db1159030293c793, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "onkapiSolic\u0130_bump"
+    second: {fileID: 2800000, guid: 84a440ad806e33d49a2ea265d20a1edd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onkapiUst
+    second: {fileID: 2800000, guid: 91fa270a76b3cda44b7db4f07c7d25b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onkapiUst_bump
+    second: {fileID: 2800000, guid: d34d0adda02f5d348a4ef23168a0d009, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turbeCati
+    second: {fileID: 2800000, guid: 4358a3785a5610f4ab294169e49b1f99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turbeKenar
+    second: {fileID: 2800000, guid: 41b2b3546dd46eb488c6d2c472b1dab1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turbeKenar_BUMP
+    second: {fileID: 2800000, guid: e76824955e983b249b5f42ac458389a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yaziSolKucuk
+    second: {fileID: 2800000, guid: 5893d1e599c1def4c83aaf3426cbca26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yerDoseme
+    second: {fileID: 2800000, guid: d339c281b7345db488dd024b63da45e8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 350
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 3.5
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
